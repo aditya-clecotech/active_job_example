@@ -69,3 +69,6 @@ end
 gem 'devise', '~> 4.9.2'
 gem 'sidekiq'
 gem 'letter_opener'
+
+
+gem 'redis', '~> 5.0'
